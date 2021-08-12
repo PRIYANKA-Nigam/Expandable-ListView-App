@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Expandable ListView1</string> <string name="app_name1">Expandable ListView2</string>
+    <string name="app_name2">Expandable ListView3</string> <string name="app_name3">Expandable ListView4</string>
+    <string name="app_name4">Expandable ListView5</string> <string name="app_name5">Expandable ListView6</string>
+    <string name="app_name6">Expandable ListView7</string> <string name="app_name7">Expandable ListView8</string>
+    <string name="app_name8">Expandable ListView9</string> <string name="app_name9">Expandable ListView10</string>
+    <string-array name="app_name1">
+        <item>item1</item>
+    </string-array>
+    <string-array name="app_name2">
+        <item>item1</item>
+        <item>item2</item>
+    </string-array>
+    <string-array name="app_name3">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+    </string-array>
+    <string-array name="app_name4">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+        <item>item4</item>
+    </string-array>
+    <string-array name="app_name5">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+        <item>item4</item>
+        <item>item5</item>
+    </string-array>
+    <string-array name="app_name6">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+        <item>item4</item>
+        <item>item5</item>
+        <item>item6</item>
+    </string-array>
+    <string-array name="app_name7">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+        <item>item4</item>
+        <item>item5</item>
+        <item>item6</item>
+        <item>item7</item>
+    </string-array>
+    <string-array name="app_name8">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+        <item>item4</item>
+        <item>item5</item>
+        <item>item6</item>
+        <item>item7</item>
+        <item>item8</item>
+    </string-array>
+    <string-array name="app_name9">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+        <item>item4</item>
+        <item>item5</item>
+        <item>item6</item>
+        <item>item7</item>
+        <item>item8</item>
+        <item>item9</item>
+    </string-array>
+    <string-array name="app_name10">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+        <item>item4</item>
+        <item>item5</item>
+        <item>item6</item>
+        <item>item7</item>
+        <item>item8</item>
+        <item>item9</item>
+        <item>item10</item>
+    </string-array>
+</resources>
